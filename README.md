@@ -14,7 +14,18 @@ Los **libros** se organizan según la **temática**: libros infantiles, narrativ
 En todo momento, debes indicar **getters**, **setters** y no es recomendable dejar ninguna clase sin **métodos**.
 
 ---
+## **Clases:**
+Con el enunciado podemos distinguir las siguientes clases a desarrollar:
 
+- Biblioteca
+- Libros 
+- Tematica
+- Prestamo
+- Lectores
+- Bibliotecario
+- Persona << abstracta >>
+
+---
 ## **Resultado Examen:**
 
 ![ExamenEntornos3T](ExamenEntornos3T.png)
